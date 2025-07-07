@@ -48,16 +48,16 @@ HTMLActuator.prototype.clearContainer = function (container) {
 
 HTMLActuator.prototype.addTile = function (tile) {
   var map = {
-    2 : "我",
-    4 : "爱",
-    8 : "你",
-    16 : "珊",
-    32 : "宝",
-    64 : "永",
-    128 : "远",
-    256 : "在",
-    512 : "一",
-    1024 : "起"
+    2 : "2",
+    4 : "4",
+    8 : "8",
+    16 : "16",
+    32 : "32",
+    64 : "64",
+    128 : "128",
+    256 : "256",
+    512 : "512",
+    1024 : "1024"
   };
 
   var self = this;
